@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5025869-283d-41a1-8f62-04d75b777e88" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="23Vyvq25XEiac2vNwfw6JxidFl2" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/challenge/src/main/java/bo/com/dt/challenge/service/impl" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="SQL Resolution Scopes" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Amira\challenge\challenge\src\main\java\bo\com\dt\challenge\model\repository" />
+      <recent name="D:\Amira\challenge\challenge\src\main\java\bo\com\dt\challenge\service\dto\restaurant" />
+      <recent name="D:\Amira\challenge\challenge\src\main\java\bo\com\dt\challenge\service\dto\dish" />
+      <recent name="D:\Amira\challenge\challenge\src\main\java\bo\com\dt\challenge\service\dto\order" />
+      <recent name="D:\Amira\challenge\challenge\src\main\java\bo\com\dt\challenge\service\dto" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bo.com.dt.challenge.exception" />
+      <recent name="bo.com.dt.challenge.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Amira\challenge\challenge\src\main\java\bo\com\dt\challenge\service\impl" />
+      <recent name="D:\Amira\challenge\challenge\src\main\java\bo\com\dt\challenge\service" />
+      <recent name="D:\Amira\challenge\challenge\src\main\java\bo\com\dt\challenge\model\repository" />
+      <recent name="D:\Amira\challenge\challenge\src\main\java\bo\com\dt\challenge\controller" />
+      <recent name="D:\Amira\challenge\challenge\src\main\java\bo\com\dt\challenge\service\dto\order" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean compile" />
+      <command value="mvn clean compile package install -DskipTests" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ChallengeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="challenge" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="bo.com.dt.challenge.ChallengeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5025869-283d-41a1-8f62-04d75b777e88" name="Default Changelist" comment="" />
+      <created>1641833781655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641833781655</updated>
+      <workItem from="1641833783025" duration="12560000" />
+      <workItem from="1641852907026" duration="11892000" />
+      <workItem from="1641932487299" duration="2932000" />
+      <workItem from="1641988326890" duration="13026000" />
+      <workItem from="1642076379202" duration="19943000" />
+      <workItem from="1642188867119" duration="3348000" />
+      <workItem from="1642381624957" duration="1679000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
